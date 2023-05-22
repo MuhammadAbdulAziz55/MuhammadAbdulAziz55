@@ -11,13 +11,13 @@ Skills: HTML/ CSS / JS / REACT / NEXT JS / NODE JS / MONGO DB /
 - 🌱 I’m currently learning Next.js and React redux 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MuhammadAbdulAziz55 )
+<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>(https://github.com/MuhammadAbdulAziz55 )
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Muhammad Abdul Aziz/) 
+<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>(https://www.linkedin.com/in/Muhammad Abdul Aziz/) 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Muhammad Abdul Aziz)  
+<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>(https://www.facebook.com/Muhammad Abdul Aziz)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadAbdulAziz55 )](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadAbdulAziz55 )(https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MuhammadAbdulAziz55 &show_icons=true&count_private=true)  
 
